@@ -1,0 +1,14 @@
+body{ 
+background:#f8f9fa; 
+ 
+}
+.card:hover{ 
+transform: scale(1.05); 
+transition: 0.3s; 
+} 
+ 
+footer{ 
+margin-top:50px;
+
+
+}
